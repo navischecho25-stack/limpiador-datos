@@ -1,0 +1,7 @@
+ID,Cliente,Ciudad,Monto
+101,  carlos perez ,MONTERIA,1500000
+102,Ana Gomez,bogota,  2000000 
+101,  carlos perez ,MONTERIA,1500000
+103,,medellin,800000
+104,Luis Torres,CARTAGENA,invalid_val
+105,Maria Ruiz,cali,1200000
